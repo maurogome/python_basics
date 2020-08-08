@@ -13,41 +13,61 @@ Python cuenta con su propia filosofia, conocida como el Zen de Python:
 ### *Zen de Python*
 
 > Bello es mejor que feo.
+
 > Explícito es mejor que implícito.
+
 > Simple es mejor que complejo.
+
 > Complejo es mejor que complicado.
+
 > Plano es mejor que anidado.
+
 > Disperso es mejor que denso.
+
 > La legibilidad cuenta.
+
 > Los casos especiales no son tan especiales como para quebrantar las reglas.
+
 > Lo práctico gana a lo puro.
+
 > Los errores nunca deberían dejarse pasar silenciosamente.
+
 > A menos que hayan sido silenciados explícitamente.
+
 > Frente a la ambigüedad, rechaza la tentación de adivinar.
+
 > Debería haber una —y preferiblemente solo una— manera obvia de hacerlo.
+
 > Aunque esa manera puede no ser obvia al principio a menos que usted sea holandés.23​
+
 > Ahora es mejor que nunca.
+
 > Aunque nunca es a menudo mejor que ya mismo.
+
 > Si la implementación es difícil de explicar, es una mala idea.
+
 > Si la implementación es fácil de explicar, puede que sea una buena idea.
+
 > Los espacios de nombres (namespaces) son una gran idea ¡Hagamos más de esas cosas!
 
 
 ## Contenido
 
-1. Operadores Aritmeticos
-2. Variables
-3. Tipos de datos
-4. Operadores logicos y de comparación
+0. Introducción
+1. Variables
+2. Operadores Aritmeticos
+3. Operadores logicos y de comparación
+4. Tipos de datos
+5. Lista, Tuplas
+6. Diccionarios
+
 ___
 
-5. Condicionales
-6. Ciclos
-7. Funciones
+7. Condicionales
+8. Ciclos
+9. Funciones
 ___
 
-8. Lista, Tuplas
-9. Diccionarios
 10. Generadores
 ___
 
